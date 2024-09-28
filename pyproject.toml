@@ -1,0 +1,17 @@
+[project]
+name = "caravan_ai"
+version = "0.0.1"
+dependencies = [
+    "openai",
+    "torch",
+    "torchvision",
+    "torchaudio",
+    "scapy",
+    "scikit-learn",
+    "matplotlib",
+    "pandas",
+    "numpy",
+]
+
+[tool.setuptools]
+packages = ["caravan_ai"]
