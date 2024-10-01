@@ -1,5 +1,5 @@
 [project]
-name = "caravan_ai"
+name = "caravan"
 version = "0.0.1"
 dependencies = [
     "openai",
@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["caravan_ai"]
+packages = ["caravan"]

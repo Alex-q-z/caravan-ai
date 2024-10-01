@@ -1,4 +1,4 @@
-### Environment setup (with Runpod)
+# Environment setup (with Runpod)
 
 ## Basic system tools
 

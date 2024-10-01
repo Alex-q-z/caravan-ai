@@ -1,8 +1,12 @@
-### The Caravan project
+# Caravan: Agent-Based Generative Data Labeling
+
+## Milestones
+- [ ] Support for high-performance parallel data labeling
+- [ ] Support for evaluation strategies like majority voting
 
 ## Reference
 
-You can refer to [the Caravan paper](https://alex-q-z.github.io/files/caravan-osdi24.pdf) (published in ODSI 2024).
+This project is inspired by [the Caravan paper](https://alex-q-z.github.io/files/caravan-osdi24.pdf) (published in OSDI 2024).
 ```bibtex
 @inproceedings{zhang2024caravan,
   title={Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents},
@@ -12,3 +16,7 @@ You can refer to [the Caravan paper](https://alex-q-z.github.io/files/caravan-os
   year={2024}
 }
 ```
+
+## Contact
+
+Qizheng Zhang (qizhengz@stanford.edu)
