@@ -8,7 +8,7 @@ from torch.utils.data import Dataset, DataLoader
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
 
-class CICIDSDataset(Dataset):
+class IntrusionDetectionDataset(Dataset):
     def __init__(self, 
                  file_path, 
                  header=0,

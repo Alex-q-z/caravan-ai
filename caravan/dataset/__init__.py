@@ -1,1 +1,1 @@
-from . import intrusion_detection
+from .intrusion_detection import IntrusionDetectionDataset
